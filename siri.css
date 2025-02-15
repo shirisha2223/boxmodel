@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+    margin:0px;
+    padding:0px;
+}
+.boxmodel{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+img{
+    margin:20px;
+    border:20px solid black;
+    object-fit:cover;
+    border-radius:10px;
+    padding:30px;
+}
