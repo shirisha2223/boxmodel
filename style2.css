@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.wrap {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    border-radius: 50%;
+}
+img, h2, p
+{
+    margin-bottom:12px;
+
+}
